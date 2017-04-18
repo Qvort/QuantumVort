@@ -13,6 +13,7 @@ Block Reward: 4 coins
 Yearly Stake Rate: 15%
 
 RPC Port: 84672
+
 P2P Port: 84671
 
 QuantumVort.conf
