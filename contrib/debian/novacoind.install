@@ -1,0 +1,2 @@
+debian/bin/QuantumVortd usr/bin
+src/QuantumVortd usr/lib/QuantumVort

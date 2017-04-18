@@ -1,0 +1,9 @@
+Building QuantumVort
+
+See doc/readme-qt.rst for instructions on building QuantumVort QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of QuantumVort.
+
+See doc/build-*.txt for instructions on building QuantumVortd,
+the intended-for-services, no-graphical-interface, reference
+implementation of QuantumVort.
